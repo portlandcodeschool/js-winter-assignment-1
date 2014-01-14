@@ -7,7 +7,7 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 
 ### Part 1
 - Clone the assignment repo for Monday of Week 1 to your computer
-    + `git clone http://someUrl.com`
+    + `git clone https://github.com/portlandcodeschool/js-winter-assignment-1.git`
 - Navigate to that directory (folder) in OSX terminal or your chosen terminal emulator for your OS
     + `cd projectDirectory` 
 - Create a branch that is titled with your name (your actual name, **not** literally *your name*)
