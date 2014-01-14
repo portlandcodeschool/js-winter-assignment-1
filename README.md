@@ -34,8 +34,7 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 
 14: Put the following at the end of your file and ponder what is happening. 
 
-    if (myAge > 30)
-        `{console.log('Oh my, how the years have passed.')}
+    if (myAge > 30) {console.log('Oh my, how the years have passed.')};
 
 ### Part 3
 - Navigate to the directory where your file is (hint: to check which directory you are currently in, type `pwd`. This stands for 'print working directory')
