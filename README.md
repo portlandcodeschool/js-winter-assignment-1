@@ -30,7 +30,7 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 10. Use a `console.log` statment to display your name. Make it a sentence, introducing yourself. Where your name should be, use the `myName` variable. 
 11. In another `console.log` statement, tell us how old you will turn this year. Make it a sentence but use the variable `myAge` to display your age.
 12. In yet another `console.log` statement, tell us how many decades and years old you are. For instance, if you are 21, you would be '2 decades and 1 year old'. Again, for these numerical values, use the variables we already created: `decades` and `year remainder`. 
-13. Add a single `console.log` statement In which you tell us some more of your vital stats. Say something like: Here are my vital stats. On three seperate, *indented* lines, list out your birthplace, mother's name, and father's name.
+13. Add a single `console.log` statement In which you tell us some more of your vital stats. Say something like: Here are my vital stats. On three seperate, *indented* lines, list out your birthplace, mother's name, and father's name. If you get stuck regarding new lines and indents/tabs, click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#String_literals)
 
 14: Put the following at the end of your file and ponder what is happening. 
 
