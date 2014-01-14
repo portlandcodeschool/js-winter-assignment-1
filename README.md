@@ -47,13 +47,13 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 
 Your result (the console output) should look something like:
 
-    Hello, my name is Ben Verble.
+    Hello, my name is John Doe.
     When celebrate my birthday this year, I will turn 31 years old.
     Another way of saying this is that I will have been alive for 3 decades and 1 year(s)
     The following are some of my other vital stats:
-        birthplace: Spokane, WA
-        mother's name: Christy
-        father's name: Jeff   
+        birthplace: Seattle, WA
+        mother's name: Sally
+        father's name: Joe   
     Oh my, how the years have passed.      
 
 ### For Review and Enlightenment
