@@ -32,9 +32,9 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 12. In yet another `console.log` statement, tell us how many decades and years old you are. For instance, if you are 21, you would be '2 decades and 1 year old'. Again, for these numerical values, use the variables we already created: `decades` and `year remainder`. 
 13. Add a single `console.log` statement In which you tell us some more of your vital stats. Say something like: Here are my vital stats. On three seperate, *indented* lines, list out your birthplace, mother's name, and father's name like so
     `The following are some of my other vital stats:`
-        `birthplace: Spokane, WA`
-        `mother's name: Christy`
-        `father's name: Jeff`
+        `birthplace: Seattle, WA`
+        `mother's name: Sally`
+        `father's name: Joe`
 
 14: Put the following at the end of your file and ponder what is happening. 
 
