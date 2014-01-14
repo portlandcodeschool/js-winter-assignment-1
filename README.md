@@ -51,6 +51,16 @@ Your result (the console output) should look something like:
         father's name: Joe   
     Oh my, how the years have passed.      
 
+### Part 4
+- In the terminal, make sure you are in the directory for this homework project
+- Add your file to be tracked
+    `git add monAssign1.js`
+- Commit your changes
+    `git commit -m "make changes"` 
+- Push your repository to github.
+    `git push`
+- Do a pull request from github's webpage
+
 ### For Review and Enlightenment
 - [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FOperators%2FArithmetic_Operators)
 - [Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FOperators%2FAssignment_Operators)
