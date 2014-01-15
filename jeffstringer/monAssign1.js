@@ -1,0 +1,14 @@
+var myName = 'Jeff Stringer';
+var currentYear = '2014';
+var birthYear = '1972';
+var myAge = currentYear - birthYear;
+var decades = Math.floor(myAge / 10);
+var yearRemainder = myAge % 10;
+var birthPlace = 'New Orleans, LA';
+var mom = 'Diane';
+var dad = 'Tom';
+console.log ('Hello, my name is ' + myName + '.');
+console.log ('When I celebrate my birthday this year, I will turn ' + myAge + ' years old.');
+console.log ('Another way of saying this is that I will have been alive for ' + decades + ' decades' + ' and ' + yearRemainder + ' years.');
+console.log ('The following are some of my other vital stats:' + '\n\tI was born in ' + birthPlace + '.' + '\n\tMy mom\'s name is ' + mom + '.' + '\n\tMy dad\'s name is ' + dad + '.');
+if (myAge > 30) {console.log('Oh my, how the years have passed.  I look 30 you say?  I know, I get that all the time!')};
