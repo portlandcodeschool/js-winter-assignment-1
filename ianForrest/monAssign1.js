@@ -16,3 +16,4 @@ console.log("Here are some facts about the groom: \n \t Birthplace: " + birthPla
 
 if (myAge > 30) {console.log("Oh my, how the years have passed.")};
 
+// Struggling with github.
