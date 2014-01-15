@@ -1,7 +1,7 @@
 var myName = 'Christopher Peddecord',
 	currentYear = 2014,
 	birthYear = 1982,
-	myAge = '3' + '2',
+	myAge = currentYear - birthYear,
 	decades = Math.floor(myAge / 10),
 	yearRemainder = myAge % 10,
 	birthPlace = 'Sacramento, CA',
