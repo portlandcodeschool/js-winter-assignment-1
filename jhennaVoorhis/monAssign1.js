@@ -11,7 +11,5 @@ console.log('Hello, my name is ' + myName + ' and it a pleasure to meet you.');
 console.log('This year I will turn ' + myAge + ' years old!');
 console.log('In other words I am ' + decades + ' decades, and ' 
 	+ yearRemainder + ' year(s) old.');
-console.log('Here are my vital stats: \n\tbirthplace: ' + birthPlace 
-	+ '\n\tmothers name: ' + mom 
-	+ '\n\tfathers name: ' + dad);
+console.log('Here are my vital stats: \n\tbirthplace: ' + birthPlace  + '\n\tmothers name: ' + mom  + '\n\tfathers name: ' + dad);
 if (myAge > 30) {console.log('Oh my, how the years have passed.')};
