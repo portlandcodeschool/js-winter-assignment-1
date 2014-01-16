@@ -4,7 +4,7 @@ var currentYear = 2014;
 var birthYear = 1900;
 var myAge = currentYear - birthYear;
 var decades = Math.floor(myAge / 10);
-//console.log(decades)
+//console.log(decades);
 var yearRemainder = myAge % 10 ;
 //console.log(yearRemainder);
 var birthPlace = "Red Spot, Jupiter";
