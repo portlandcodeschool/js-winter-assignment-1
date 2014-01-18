@@ -1,3 +1,6 @@
+//Paul Ogden
+//Assignment 1
+
 var myName = 'Kathryn Stoddard';
 var currentYear = 2014;
 var birthYear = 1983;
