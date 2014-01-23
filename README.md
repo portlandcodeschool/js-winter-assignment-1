@@ -22,15 +22,15 @@ Monday Assignment for Week 1: Strings, Variables, Operators, Etc.
 2. Create a variable called `currentYear` and store the number 2014 in it. 
 3. Create a variable called `birthYear` and store your birth year in it. 
 4. Create a variable called `myAge` and make it equal to the age that you will turn this year. Do **not** store a number in this variable. You may only use your other variables and some arithmetic operators to create this value.  
-5. Create a variable called `decades`. Set it equal to this: `Math.floor(my age / 10)`
+5. Create a variable called `decades`. Set it equal to this: `Math.floor(myAge / 10)`
 6. Create a variable called `yearRemainder`. Set it equal to the number of years remaining after you divide `myAge` by 10. This will only require you to use one operator (not counting the assignment operator "`=`"). Again, don't plug in the answer into the variable, use variables, an operator, and the number 10 to make this work. If you are really stuck, click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#.25_.28Modulus.29)
 7. Create a variable called birthPlace and set it equal to your birthplace (e.g. "Portland, OR")
 8. Create a var called mom with your mom's name in it.
 9. Create a var called dad with your dad's name in it. 
-10. Use a `console.log` statment to display your name. Make it a sentence, introducing yourself. Where your name should be, use the `name` variable. 
+10. Use a `console.log` statment to display your name. Make it a sentence, introducing yourself. Where your name should be, use the `myName` variable. 
 11. In another `console.log` statement, tell us how old you will turn this year. Make it a sentence but use the variable `myAge` to display your age.
 12. In yet another `console.log` statement, tell us how many decades and years old you are. For instance, if you are 21, you would be '2 decades and 1 year old'. Again, for these numerical values, use the variables we already created: `decades` and `year remainder`. 
-13. Add a single `console.log` statement In which you tell us some more of your vital stats. Say something like: Here are my vital stats. On three seperate, *indented* lines, list out your birthplace, mother's name, and father's name.
+13. Add a single `console.log` statement In which you tell us some more of your vital stats. Say something like: Here are my vital stats. On three seperate, *indented* lines, list out your birthplace, mother's name, and father's name. If you get stuck regarding new lines and indents/tabs, click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#String_literals)
 
 14: Put the following at the end of your file and ponder what is happening. 
 
@@ -50,6 +50,16 @@ Your result (the console output) should look something like:
         mother's name: Sally
         father's name: Joe   
     Oh my, how the years have passed.      
+
+### Part 4
+- In the terminal, make sure you are in the directory for this homework project
+- Add your file to be tracked
+    `git add monAssign1.js`
+- Commit your changes
+    `git commit -m "make changes"` 
+- Push your repository to github.
+    `git push`
+- Do a pull request from github's webpage
 
 ### For Review and Enlightenment
 - [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FOperators%2FArithmetic_Operators)
